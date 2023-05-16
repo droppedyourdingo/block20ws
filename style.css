@@ -1,0 +1,9 @@
+h1 {
+    text-align: center;
+    border: 2px solid red;
+}
+
+li {
+    margin: 2vh;
+    font-size: 20px;
+}
